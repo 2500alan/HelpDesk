@@ -1,5 +1,4 @@
 <?php 
-
 //function de alertas by Google https://github.com/amnersaucedososa
     function profile(){
         $success=sha1(md5("datos actualizados"));
